@@ -1,12 +1,17 @@
 {
   "expo": {
-    "name": "movie",
-    "slug": "movie",
+    "name": "Rider",
+    "slug": "Rider",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "movie",
+    "scheme": "Rider",
     "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true
